@@ -3,6 +3,8 @@
     padding: 0;
 } 
 
+/* link senza underline */
+
 a:link { 
     text-decoration: none; 
 }
@@ -23,6 +25,8 @@ main{
     padding: 1%;
 }
 
+/* logo */
+
 .logo{
     background-color: lightskyblue;
     background-image: url(../img/pattern.png);
@@ -41,6 +45,8 @@ h1{
     width: 15%;
     height: auto;
 }
+
+/*main*/
 
 #data{
     font-size: 12px;
@@ -80,6 +86,12 @@ th{
 .bigcolumn{
     width: auto;
 }
+
+.giallo { 
+    background:#FFFF00; 
+}
+
+/*footer*/
 
 footer{
     padding: 1%;

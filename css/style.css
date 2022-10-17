@@ -80,3 +80,23 @@ th{
 .bigcolumn{
     width: auto;
 }
+
+footer{
+    padding: 1%;
+}
+
+h3{
+    color: gray;
+}
+
+.container{
+    position: relative;
+}
+
+.testospot{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 1%;
+}
